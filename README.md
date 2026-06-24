@@ -5,5 +5,5 @@ This is produces in comparsion to the builtin callbacks (OnScriptLoad, OnScriptS
 reduces the the update of the window title to a minimum. 
 
 <p align="center">
-  <img src="http://www.david-teichert.com/files/assets/dTitle_screenshot.jpg"  alt="Custom Info in Window Title">
+  <img src="https://github.com/DangerDave87/misc/blob/main/screenshots/dTitle.jpg"  alt="Custom Info in Window Title">
 </p>
